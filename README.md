@@ -11,10 +11,11 @@ At Nash, I work on AI agents in real logistics operations, architecture across t
 ### What I care about
 
 - **Applied AI:** deciding what agents can own, where people need control, and what happens when things go wrong.
+- **The future of development:** shaping how people and AI agents build software together—what engineers own, how teams work, and how we judge the result.
 - **Software architecture:** clear ownership, simpler contracts, and systems that give teams room to move.
 - **Engineering leadership:** setting direction, making the tradeoffs, and helping people make good decisions without becoming dependent on mine.
 
-I stay close to the code. Ten years in, I still enjoy making complicated things feel obvious.
+I stay close to the product and the code. Ten years in, I still enjoy making complicated things feel obvious.
 
 Happy to compare notes on AI products, architecture, or something worth building together.
 
