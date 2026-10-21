@@ -16,8 +16,6 @@ At Nash, I work on AI agents in real logistics operations, architecture across t
 
 I stay close to the code. Ten years in, I still enjoy making complicated things feel obvious.
 
-Most of my recent work lives in private company repositories. The public repos here are earlier experiments with programming languages, compilers, and APIs.
-
 Happy to compare notes on AI products, architecture, or something worth building together.
 
 [LinkedIn](https://www.linkedin.com/in/karolrodzinski/) · [Nash](https://www.nash.ai/)
